@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Assignment-2/mlruns/706859560085188007/12888a17fa0047acb4033bd42b435240/artifacts
+end_time: 1744274166460
+entry_point_name: ''
+experiment_id: '706859560085188007'
+lifecycle_stage: active
+run_id: 12888a17fa0047acb4033bd42b435240
+run_name: omniscient-toad-371
+run_uuid: 12888a17fa0047acb4033bd42b435240
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744274166277
+status: 3
+tags: []
+user_id: sukan

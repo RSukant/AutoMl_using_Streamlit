@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Assignment-2/mlruns/706859560085188007/585ae1dfbe334228b19dc4ee044c8677/artifacts
+end_time: 1744274566797
+entry_point_name: ''
+experiment_id: '706859560085188007'
+lifecycle_stage: active
+run_id: 585ae1dfbe334228b19dc4ee044c8677
+run_name: languid-doe-385
+run_uuid: 585ae1dfbe334228b19dc4ee044c8677
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744274566699
+status: 3
+tags: []
+user_id: sukan

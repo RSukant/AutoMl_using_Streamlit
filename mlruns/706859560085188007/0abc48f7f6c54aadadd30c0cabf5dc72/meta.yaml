@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Assignment-2/mlruns/706859560085188007/0abc48f7f6c54aadadd30c0cabf5dc72/artifacts
+end_time: 1719309403862
+entry_point_name: ''
+experiment_id: '706859560085188007'
+lifecycle_stage: active
+run_id: 0abc48f7f6c54aadadd30c0cabf5dc72
+run_name: abrasive-ant-481
+run_uuid: 0abc48f7f6c54aadadd30c0cabf5dc72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719309403752
+status: 3
+tags: []
+user_id: sukan

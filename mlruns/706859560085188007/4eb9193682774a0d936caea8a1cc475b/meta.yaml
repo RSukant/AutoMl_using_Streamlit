@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Assignment-2/mlruns/706859560085188007/4eb9193682774a0d936caea8a1cc475b/artifacts
+end_time: 1712827699177
+entry_point_name: ''
+experiment_id: '706859560085188007'
+lifecycle_stage: active
+run_id: 4eb9193682774a0d936caea8a1cc475b
+run_name: bright-midge-121
+run_uuid: 4eb9193682774a0d936caea8a1cc475b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712827699011
+status: 3
+tags: []
+user_id: sukan
